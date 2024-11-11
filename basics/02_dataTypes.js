@@ -15,7 +15,7 @@ console.log("krishma")
 //null =>standalone value
 //undefined 
 //symbol => unique
-let name = "klrishma"
+let name = "krishma"
 let age = 22
 let isLoggedIn = false
 
